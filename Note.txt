@@ -1,0 +1,20 @@
+
+[_ Resources _]
+
+Follow this YouTube video for setting up the JPA project using hibernate
+- https://www.youtube.com/watch?v=QJddHc41xrM
+
+Follow this IntelliJ webpage
+- https://www.jetbrains.com/help/idea/hibernate.html
+
+----------
+
+Follow this YouTube video to configure the data sources
+- https://www.youtube.com/watch?v=-yiL99KFeng
+
+Set the SQL Dialects to MariaDB
+> File > Settings > Languages & Frameworks > SQL Dialects
+> Set the Global SQL Dialects and Project SQL Dialects to "MariaDB"
+
+Use this web side to find dependencies
+- https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.26
